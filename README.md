@@ -25,10 +25,10 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 
 > O que eu estou aprendendo atualmente.
 
-<img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
 <img width="40" align="left" style="margin: 5px" src="./assets/docker.svg" title="Docker">
+<img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
 
-<br/>
+<br/><br/>
 
 ### Na Lista
 
