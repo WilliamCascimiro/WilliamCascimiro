@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermerson-araujo/)](https://www.linkedin.com/in/william-cascimiro/)
 
 ### Sobre
-Sou William, apaixonado por programação e jogos de tabuleiro.
+Me chamo William, apaixonado por programação e jogos de tabuleiro.
 
 Linguagens/Frameworks e Tecnologias
 Algumas linguagens/frameworks e tecnologias que eu uso para desenvolver meus projetos.
