@@ -14,7 +14,6 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 <img width="40" align="left" style="margin: 5px" src="./assets/react.svg" title="React & React Native">
 <img width="60" align="left" style="margin: 5px" src="./assets/nodejs.svg" title="NodeJS">
 <img width="40" align="left" style="margin: 5px" src="./assets/serverless.png" title="Serverless Framework">
-<img width="40" align="left" style="margin: 5px" src="./assets/php.svg" title="PHP">
 <img width="40" align="left" style="margin: 5px" src="./assets/laravel.svg" title="Laravel">
 <img width="40" align="left" style="margin: 5px" src="./assets/graphql.svg" title="GraphQL">
 <img width="40" align="left" style="margin: 5px" src="./assets/docker.svg" title="Docker">
