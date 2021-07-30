@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Linkedin Badge
-Sobre
+### Sobre
 Sou William, apaixonado por programação e jogos de tabuleiro.
 
 Linguagens/Frameworks e Tecnologias
