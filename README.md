@@ -17,6 +17,7 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 <img width="40" align="left" style="margin: 5px" src="./assets/css.svg" title="CSS">
 <img width="40" align="left" style="margin: 5px" src="./assets/mysql.svg" title="MySQL">
 <img width="40" align="left" style="margin: 5px" src="./assets/postgres.png" title="Postgres">
+<img width="120" align="center" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
 
 ### Aprendendo
 
@@ -24,9 +25,10 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 
 <img width="40" align="left" style="margin: 5px" src="./assets/aws.svg" title="AWS">
 <img width="40" align="left" style="margin: 5px" src="./assets/docker.svg" title="Docker">
-<img width="120" align="center" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
+
 
 ### Na Lista
+
 > O que está na minha lista de estudo.
 
 <img width="40" align="left" style="margin: 5px" src="./assets/graphql.svg" title="GraphQL">
