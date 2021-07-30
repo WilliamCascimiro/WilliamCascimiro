@@ -19,6 +19,8 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 <img width="40" align="left" style="margin: 5px" src="./assets/postgres.png" title="Postgres">
 <img width="120" align="center" style="margin: 5px" src="./assets/mongodb.svg" title="MongoDB">
 
+<br/>
+
 ### Aprendendo
 
 > O que eu estou aprendendo atualmente.
