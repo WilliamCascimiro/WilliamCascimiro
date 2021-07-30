@@ -1,14 +1,14 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermerson-araujo/)](https://www.linkedin.com/in/hermerson-araujo/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-cascimiro/)](https://www.linkedin.com/in/william-cascimiro/)
   
 ### Sobre
 
-Sou fascinado por programação, comecei minha jornada em 2016 e desde do começo eu sempre procurei aprender várias tecnologias. Hoje me considero um
-desenvolvedor *generalista*, porém meus projetos estão mais voltados para a Web/Mobile e a maioria deles podem ser encontrados aqui no Github.
+Sou William, *apaixonado* por programação e jogos de tabuleiro.
 
 ### Linguagens/Frameworks e Tecnologias
 
 > Algumas linguagens/frameworks e tecnologias que eu uso para desenvolver meus projetos.
 
+<img width="40" align="left" style="margin: 5px" src="./assets/c_sharp.svg" title="c#">
 <img width="40" align="left" style="margin: 5px" src="./assets/js.svg" title="JavaScript">
 <img width="40" align="left" style="margin: 5px" src="./assets/typescript.jpeg" title="TypeScript">
 <img width="40" align="left" style="margin: 5px" src="./assets/react.svg" title="React & React Native">
