@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-Linkedin Badge
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hermerson-araujo/)](https://www.linkedin.com/in/william-cascimiro/)
+
 ### Sobre
 Sou William, apaixonado por programação e jogos de tabuleiro.
 
