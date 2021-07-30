@@ -29,6 +29,7 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 <img width="40" align="left" style="margin: 5px" src="./assets/docker.svg" title="Docker">
 
 <br/>
+
 ### Na Lista
 
 > O que está na minha lista de estudo.
