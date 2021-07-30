@@ -11,7 +11,7 @@ Sou William, *apaixonado* por programação e jogos de tabuleiro.
 <img width="40" align="left" style="margin: 5px" src="./assets/c_sharp.svg" title="C#">
 <img width="40" align="left" style="margin: 5px" src="./assets/js.svg" title="JavaScript">
 <img width="40" align="left" style="margin: 5px" src="./assets/typescript.jpeg" title="TypeScript">
-<img width="60" align="left" style="margin: 5px" src="./assets/angular.png" title="Angular">
+<img width="45" align="left" style="margin: 5px" src="./assets/angular.png" title="Angular">
 <img width="40" align="left" style="margin: 5px" src="./assets/sass.svg" title="SASS">
 <img width="40" align="left" style="margin: 5px" src="./assets/html.svg" title="HTML">
 <img width="40" align="left" style="margin: 5px" src="./assets/css.svg" title="CSS">
